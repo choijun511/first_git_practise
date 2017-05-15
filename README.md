@@ -45,3 +45,9 @@ git log
 ```
 git diff
 ```
+
+克隆远端代码库，如果是别人的库，要fork到自己到github上，然后克隆下来
+
+```
+git clone git@github.com:choijun511/douban_crawler.git
+```
