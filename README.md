@@ -28,7 +28,7 @@ git commit -m "some reason"
 git remote add origin git@github.com:choijun511/first_git_practise.git
 ```
 
-查看未提交的修改
+查看未提交的文件
 
 ```
 git status
@@ -38,4 +38,10 @@ git status
 
 ```
 git log
+```
+
+查看修改
+
+```
+git diff
 ```
