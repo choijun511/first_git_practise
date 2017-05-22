@@ -51,3 +51,8 @@ git diff
 ```
 git clone git@github.com:choijun511/douban_crawler.git
 ```
+
+不把一些文件提交到版本库，要在根目录创建.gitignore文件，然后把[链接](https://github.com/github/gitignore/blob/master/Python.gitignore)加入到文件中
+```
+touch .gitignore
+```
